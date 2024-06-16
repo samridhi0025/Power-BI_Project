@@ -8,17 +8,12 @@ This project aims to create a comprehensive sales forecasting model for a Super 
 <br>
 Objectives
 Data Analysis: Uncover patterns and trends in historical sales data.
-
 Forecasting: Implement advanced forecasting techniques to predict future sales with high accuracy.
-
 Visualization: Create interactive and user-friendly dashboards to visualize insights and support decision-making.
-
 Automation: Streamline data processing and report generation to save time and ensure consistency.
 
 <br>Key Highlights
-<br>
-Dynamic Visualizations: Interactive charts and graphs provide real-time insights into sales performance.
-<br>
+<br>Dynamic Visualizations: Interactive charts and graphs provide real-time insights into sales performance.
 <br>Predictive Analytics: Forecasting models help anticipate future sales and adjust strategies accordingly.
 <br>User-Friendly Interface: Intuitive dashboards make complex data accessible and actionable for stakeholders.
 <br>Visualizations Included
@@ -27,6 +22,7 @@ Area charts
 Bar graphs
 Line and Clustered Column charts
 <br>
+
 Key Insights
 <br>
 The majority of sales were generated from specific product categories.
