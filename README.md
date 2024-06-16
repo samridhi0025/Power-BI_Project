@@ -14,14 +14,14 @@ Forecasting: Implement advanced forecasting techniques to predict future sales w
 Visualization: Create interactive and user-friendly dashboards to visualize insights and support decision-making.
 
 Automation: Streamline data processing and report generation to save time and ensure consistency.
-<br>
-Key Highlights
+
+<br>Key Highlights
 <br>
 Dynamic Visualizations: Interactive charts and graphs provide real-time insights into sales performance.
 <br>
-Predictive Analytics: Forecasting models help anticipate future sales and adjust strategies accordingly.
-User-Friendly Interface: Intuitive dashboards make complex data accessible and actionable for stakeholders.
-Visualizations Included
+<br>Predictive Analytics: Forecasting models help anticipate future sales and adjust strategies accordingly.
+<br>User-Friendly Interface: Intuitive dashboards make complex data accessible and actionable for stakeholders.
+<br>Visualizations Included
 Donut charts
 Area charts
 Bar graphs
